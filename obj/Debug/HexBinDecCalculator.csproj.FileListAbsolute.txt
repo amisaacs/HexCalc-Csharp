@@ -1,0 +1,10 @@
+C:\Users\amisaac\source\repos\HexBinDecCalculator\bin\Debug\HexBinDecCalculator.exe.config
+C:\Users\amisaac\source\repos\HexBinDecCalculator\bin\Debug\HexBinDecCalculator.exe
+C:\Users\amisaac\source\repos\HexBinDecCalculator\bin\Debug\HexBinDecCalculator.pdb
+C:\Users\amisaac\source\repos\HexBinDecCalculator\obj\Debug\HexBinDecCalculator.csprojAssemblyReference.cache
+C:\Users\amisaac\source\repos\HexBinDecCalculator\obj\Debug\HexBinDecCalculator.Form1.resources
+C:\Users\amisaac\source\repos\HexBinDecCalculator\obj\Debug\HexBinDecCalculator.Properties.Resources.resources
+C:\Users\amisaac\source\repos\HexBinDecCalculator\obj\Debug\HexBinDecCalculator.csproj.GenerateResource.cache
+C:\Users\amisaac\source\repos\HexBinDecCalculator\obj\Debug\HexBinDecCalculator.csproj.CoreCompileInputs.cache
+C:\Users\amisaac\source\repos\HexBinDecCalculator\obj\Debug\HexBinDecCalculator.exe
+C:\Users\amisaac\source\repos\HexBinDecCalculator\obj\Debug\HexBinDecCalculator.pdb
